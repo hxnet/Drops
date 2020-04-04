@@ -1,0 +1,13 @@
+name: HMC-PvP
+main: like.invis.us.Main
+version: 1.0
+author: invistek
+commands:
+     kits:
+     ranks:
+     spec:
+     togglerank:
+     toggle:
+     t:
+     test:
+     coins:
