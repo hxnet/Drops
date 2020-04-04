@@ -123,7 +123,7 @@ public class Main extends JavaPlugin implements Listener {
 	    	}
 	    }
 	    if (p.hasPermission("H.Owner")) {
-	      rank = "Ownrrrrrrrrr";
+	      rank = "Owner";
 	    } else if (p.hasPermission("H.HeadAdmin")) {
 	      rank = "HeadAdmin";
 	    } else if (p.hasPermission("H.Admin")) {
